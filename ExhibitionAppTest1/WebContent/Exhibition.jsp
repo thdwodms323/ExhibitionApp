@@ -66,7 +66,7 @@ if(rs.next()){
 	<td><input type="text" name="docent" value="<%=docent %>" class="inputStyle"/></td>
 </tr>
 <tr>
-	<th colspan="1"  class="active">전시회 설명</th>
+	<th colspan="1"  class="active">전시회  설명</th>
 	<td colspan="3">
 		<textarea rows="4" name="texts"><%=texts %></textarea>
 	</td>
