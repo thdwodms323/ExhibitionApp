@@ -31,7 +31,7 @@ if(rs.next()){
 <table class="table table-striped table-condensed">
 	<tr>
 		<th>아이디</th>
-		<td><input type="text" class="form-control" value="<%=rscustid %>" name="custid" disabled/><input type="text" class="form-control" value="<%=rscustid %>" name="custid"/>
+		<td><input type="text" class="form-control" value="<%=rscustid %>" name="custid"/>
 		</td>
 	</tr>
 	<tr>
