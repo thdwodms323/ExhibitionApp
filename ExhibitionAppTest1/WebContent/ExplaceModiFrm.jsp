@@ -3,7 +3,7 @@
 <%@ include file="./include/Header.jsp" %>
 <%@ include file="./include/incLogin.jsp" %>
 <br/><br/>
-<h3>전시관 정보 수정</h3>
+<h3 class="text-center">전시관 정보 수정</h3>
 <%
 	String code = request.getParameter("CodeChk");
 	// 전역 변수 : 설정해서 전시관 관련 정보 찍어줄 변수 생성.

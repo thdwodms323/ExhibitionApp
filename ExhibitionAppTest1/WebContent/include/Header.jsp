@@ -4,6 +4,7 @@
 <%
 	String custid  = (String)session.getAttribute("UID");
 	String custname = (String)session.getAttribute("UNAME");
+	
 
 	boolean isLogin = false;
 	
